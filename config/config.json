@@ -1,0 +1,9 @@
+{
+"FilePaths":{
+    "finviz_url":"http://finviz.com/quote.ashx?t={arg}"
+    },
+"Credentials":{
+    "email":"",
+    "pass":""
+    }
+}
